@@ -53,6 +53,25 @@
 
 </details>
 
+### [CDT] 코드트리
+
+<details>
+	<summary>문제 풀이 모음집</summary>
+  </br>
+  
+  |코드 번호|이름|난이도|풀이 코드|풀이 시간|풀이 유형|상태|
+  |:-----:|:-----|:-----:|:-----|:-----|:-----|:-----:|
+  |**____**|[코드트리 빵](https://www.codetree.ai/ko/frequent-problems/problems/codetree-mon-bread/description)|L14|./삼성/(코드트리)코드트리 빵.py|03:30:00.00|`Simulation, BFS`|✅|
+  |**____**|[색깔 폭탄](https://www.codetree.ai/ko/frequent-problems/problems/colored-bomb/description)|L14|./삼성/2021_상반기_오전_2번_색깔_폭탄.py|01:30:00.00|`Simulation, BFS`|✅|
+  |**____**|[원자 충돌](https://www.codetree.ai/ko/frequent-problems/problems/atom-collision/description?introductionSetId=&bookmarkId=)|L12|./삼성/2020_하반기_오전_2번_원자_충돌.py|01:20:00.00|`Simulation`|✅|
+  |**____**|[나무박멸](https://www.codetree.ai/ko/frequent-problems/problems/tree-kill-all/description)|L12|./삼성/2022_상반기_오후_2번_나무박별.py|02:30:00.00|`Simulation, dx dy technique`|✅|
+  |**____**|[자율주행 전기차](https://www.codetree.ai/ko/frequent-problems/problems/autonomous-electric-car/description)|L14|./삼성/2020_상반기_오후_2번_자율주행_전기차.py|02:50:00.00|`Simulation, BFS`|✅|
+  |**____**|[생명과학부 랩 인턴](https://www.codetree.ai/ko/frequent-problems/problems/biology-lab-intern/description?introductionSetId=&bookmarkId=)|L13|./삼성/2019_상반기_오전_2번_생명과학부_랩_인턴.py|00:55:00.00|`Simulation`|✅|
+  |**____**|[전투 로봇](https://www.codetree.ai/ko/frequent-problems/problems/fighting-robot/description?introductionSetId=&bookmarkId=)|L13|./삼성/2018_하반기_오후_2번_전투_로봇.py|00:30:00.00|`Simulation, BFS`|✅|
+  |**____**|[나무 타이쿤](https://www.codetree.ai/ko/frequent-problems/problems/tree-tycoon/description?introductionSetId=&bookmarkId=)|L11|./삼성/2021_상반기_오후_1번_나무_타이쿤.py|01:10:00.00|`Simulation, dx dy technique`|✅|
+
+</details>
+
 ### [LTC] 리트코드
 
 <details>
