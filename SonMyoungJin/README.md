@@ -48,6 +48,7 @@
   |**_14503_**|[로봇 청소기](https://www.acmicpc.net/problem/14503)|골드 5|[14503_로봇청소기.py](./[BOJ]/14503_로봇청소기.py)|01:07:24.05|`구현` `시뮬레이션`|✅|
   |**_20165_**|[인내의 도미노 장인 호석](https://www.acmicpc.net/problem/20165)|골드 5|[20165_인내의도미노장인호석.py](./[BOJ]/20165_인내의도미노장인호석.py)|01:16:41.16|`구현` `시뮬레이션`|✅|
   |**_12933_**|[오리](https://www.acmicpc.net/problem/12933)|실버 2|[12933_오리.py](./[BOJ]/12933_오리.py)|01:47:30.86|`그리디` `문자열`|✔️|
+  |**_14940_**|[쉬운 최단거리](https://www.acmicpc.net/problem/14940)|실버 1|[14940_쉬운최단거리.py](./[BOJ]/14940_쉬운최단거리.py)|00:50:18.08|`BFS`|✅|
 </details>
 
 ### [PGS] 프로그래머스
@@ -62,6 +63,17 @@
   |**_42584_**|[주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|Lv 2|[42584_주식가격.py](./[PGS]/42584_주식가격.py)|00:32:04.89|`스택` `큐`|✅|
   |**_42626_**|[더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)|Lv 2|[42626_더맵게.py](./[PGS]/42626_더맵게.py)|00:20:48.97|`힙`|✅|
   |**_84021_**|[퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)|Lv 3|[84021_퍼즐조각채우기.py](./[PGS]/84021_퍼즐조각채우기.py)|02:00:00.00|`BFS` `구현`|✅|
+</details>
+
+### [CDT] 코드트리
+
+<details>
+	<summary>문제 풀이 모음집</summary>
+  </br>
+  
+  |코드 번호|이름|난이도|풀이 코드|풀이 시간|풀이 유형|상태|
+  |:------:|:------|:------:|:------|:------|:------|:------:|
+  |**__**|[색깔 폭탄](https://www.codetree.ai/ko/frequent-problems/problems/colored-bomb/description)|L14|[202100002_색깔폭탄.py](./[CDT]/202100002_색깔폭탄.py)|00:00:00.00|`시뮬레이션` `BFS`||
 </details>
 
 ### [LTC] 리트코드
