@@ -3,7 +3,7 @@
 - [인내의 도미노 장인 호석](https://www.acmicpc.net/problem/20165)
 
 
-# 지난 공통 문제제
+# 지난 공통 문제
 - [N-Queen](https://www.acmicpc.net/problem/9663)
 - [학부 연구생 민상](https://www.acmicpc.net/problem/21922)
 - [오리](https://www.acmicpc.net/problem/12933)
