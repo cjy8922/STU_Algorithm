@@ -30,16 +30,16 @@ for _ in range(R):
     if status[x][y] == 'S':
         length = board[x][y]
         nx, ny = x, y
-        for _ in range(length): # 공격수가 넘어트린 도미노의 길이만큼 넘어짐
-            while 0 <= nx < N and 0 <= ny < M and length > 0:
-                if status[nx][ny] == 'S': # 현재 이 자리 도미노 세워져있으면
-                    status[nx][ny] = 'F' # 넘어트림
-                    score += 1
-                    # 더 긴 도미노 만나면 연쇄적으로 더 넘어져야하므로 도미노 길이 갱신
-                    length = max(length, board[nx][ny])
-                nx += dx # 다음 도미노
-                ny += dy
-                length -= 1
+        # 공격수가 넘어트린 도미노의 길이만큼 넘어짐
+        while 0 <= nx < N and 0 <= ny < M and length > 0:
+            if status[nx][ny] == 'S': # 현재 이 자리 도미노 세워져있으면
+                status[nx][ny] = 'F' # 넘어트림
+                score += 1
+                # 더 긴 도미노 만나면 연쇄적으로 더 넘어져야하므로 도미노 길이 갱신
+                length = max(length, board[nx][ny])
+            nx += dx # 다음 도미노
+            ny += dy
+            length -= 1
 
     # 수비       
     x, y = map(lambda v: int(v) - 1, input().split())
