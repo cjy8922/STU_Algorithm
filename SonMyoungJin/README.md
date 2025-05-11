@@ -77,6 +77,7 @@
   |코드 번호|이름|난이도|풀이 코드|풀이 시간|풀이 유형|상태|
   |:------:|:------|:------:|:------|:------|:------|:------:|
   |**__**|[색깔 폭탄](https://www.codetree.ai/ko/frequent-problems/problems/colored-bomb/description)|L14|[202100002_색깔폭탄.py](./[CDT]/202100002_색깔폭탄.py)|03:00:00.00|`시뮬레이션` `BFS`|✔️|
+  |**__**|[나무 박멸](https://www.codetree.ai/ko/frequent-problems/problems/tree-kill-all/description?introductionSetId=&bookmarkId=)|L12|[202200012_나무박멸.py](./[CDT]/202200012_나무박멸.py)|03:20:45.12|`시뮬레이션`|✅|
 </details>
 
 ### [LTC] 리트코드
