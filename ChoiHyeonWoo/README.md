@@ -72,7 +72,7 @@
   |**____**|[생명과학부 랩 인턴](https://www.codetree.ai/ko/frequent-problems/problems/biology-lab-intern/description?introductionSetId=&bookmarkId=)|L13|./삼성/2019_상반기_오전_2번_생명과학부_랩_인턴.py|00:55:00.00|`Simulation`|✅|
   |**____**|[전투 로봇](https://www.codetree.ai/ko/frequent-problems/problems/fighting-robot/description?introductionSetId=&bookmarkId=)|L13|./삼성/2018_하반기_오후_2번_전투_로봇.py|00:30:00.00|`Simulation, BFS`|✅|
   |**____**|[나무 타이쿤](https://www.codetree.ai/ko/frequent-problems/problems/tree-tycoon/description?introductionSetId=&bookmarkId=)|L11|./삼성/2021_상반기_오후_1번_나무_타이쿤.py|01:10:00.00|`Simulation, dx dy technique`|✅|
-  |**____**|[팩맨](https://www.codetree.ai/ko/frequent-problems/problems/pacman/description)|L11|./삼성/2021_하반기_오후_1번_팩맨.py|00:00:00.00|`SImylation`|❌|
+  |**____**|[팩맨](https://www.codetree.ai/ko/frequent-problems/problems/pacman/description)|L11|./삼성/2021_하반기_오후_1번_팩맨.py|00:00:00.00|`Simulation`|❌|
 
 </details>
 
