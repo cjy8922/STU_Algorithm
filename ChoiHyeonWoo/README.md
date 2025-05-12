@@ -37,6 +37,8 @@
   |**_19598_**|[최소 회의실 개수](https://www.acmicpc.net/problem/19598)|골드 5|./그리디/19598번 최소 회의실 개수.py|00:30:00.00|`그리다`|✅|
   |**_1753_**|[최단경로](https://www.acmicpc.net/problem/1753)|골드 4|./그래프/1753번 최단경로.py|00:30:00.00|`그래프`|✅|
   |**_14503_**|[로봇 청소기](https://www.acmicpc.net/problem/14503)|골드 5|./삼성/최단경로.py|00:30:00.00|`구현`|✅|
+  |**_20437_**|[문자열 게임 2](https://www.acmicpc.net/problem/20437)|골드 5|./구햔/20437번 문자열 게임 2.py|00:50:00.00|`구현`|✅|
+  |**_15961_**|[회전 초밥](https://www.acmicpc.net/problem/15961)|골드 4|./구현/15961번 회전 초밥.py|00:00:00.00|`구현`|❌|
 
   
 
@@ -70,6 +72,7 @@
   |**____**|[생명과학부 랩 인턴](https://www.codetree.ai/ko/frequent-problems/problems/biology-lab-intern/description?introductionSetId=&bookmarkId=)|L13|./삼성/2019_상반기_오전_2번_생명과학부_랩_인턴.py|00:55:00.00|`Simulation`|✅|
   |**____**|[전투 로봇](https://www.codetree.ai/ko/frequent-problems/problems/fighting-robot/description?introductionSetId=&bookmarkId=)|L13|./삼성/2018_하반기_오후_2번_전투_로봇.py|00:30:00.00|`Simulation, BFS`|✅|
   |**____**|[나무 타이쿤](https://www.codetree.ai/ko/frequent-problems/problems/tree-tycoon/description?introductionSetId=&bookmarkId=)|L11|./삼성/2021_상반기_오후_1번_나무_타이쿤.py|01:10:00.00|`Simulation, dx dy technique`|✅|
+  |**____**|[팩맨](https://www.codetree.ai/ko/frequent-problems/problems/pacman/description)|L11|./삼성/2021_하반기_오후_1번_팩맨.py|00:00:00.00|`Simulation`|❌|
 
 </details>
 
