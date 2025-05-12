@@ -51,6 +51,8 @@
   |**_14940_**|[쉬운 최단거리](https://www.acmicpc.net/problem/14940)|실버 1|[14940_쉬운최단거리.py](./[BOJ]/14940_쉬운최단거리.py)|00:50:18.08|`BFS`|✅|
   |**_16236_**|[아기 상어](https://www.acmicpc.net/problem/16236)|골드 3|[16236_아기상어.py](./[BOJ]/16236_아기상어.py)|01:14:17.96|`시뮬레이션` `BFS`|✅|
   |**_21921_**|[블로그](https://www.acmicpc.net/problem/21921)|실버 3|[21921_블로그.py](./[BOJ]/21921_블로그.py)|00:37:40.49|`누적 합` `슬라이딩 윈도우`|✔️|
+  |**_20437_**|[문자열 게임2](https://www.acmicpc.net/problem/20437)|골드 5|[20437_문자열게임2.py](./[BOJ]/20437_문자열게임2.py)|00:58:15.54|`문자열` `슬라이딩 윈도우`|✅|
+  |**_15961_**|[회전 초밥](https://www.acmicpc.net/problem/15961)|골드 4|[15961_회전초밥.py](./[BOJ]/15961_회전초밥.py)|01:43:00.54|`두 포인터` `슬라이딩 윈도우`|✔️|
 </details>
 
 ### [PGS] 프로그래머스
@@ -76,6 +78,7 @@
   |코드 번호|이름|난이도|풀이 코드|풀이 시간|풀이 유형|상태|
   |:------:|:------|:------:|:------|:------|:------|:------:|
   |**__**|[색깔 폭탄](https://www.codetree.ai/ko/frequent-problems/problems/colored-bomb/description)|L14|[202100002_색깔폭탄.py](./[CDT]/202100002_색깔폭탄.py)|03:00:00.00|`시뮬레이션` `BFS`|✔️|
+  |**__**|[나무 박멸](https://www.codetree.ai/ko/frequent-problems/problems/tree-kill-all/description?introductionSetId=&bookmarkId=)|L12|[202200012_나무박멸.py](./[CDT]/202200012_나무박멸.py)|03:20:45.12|`시뮬레이션`|✅|
 </details>
 
 ### [LTC] 리트코드
