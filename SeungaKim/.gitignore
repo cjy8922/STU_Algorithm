@@ -1,0 +1,5 @@
+*.log
+*.temp
+temp/
+SeungaKim/[STU]/C/
+SeungaKim/[STU]/Python/
