@@ -1,7 +1,8 @@
 # 📍4/14 ~ 4/28 공통 문제
-- [아기 상어](https://www.acmicpc.net/problem/16236)
-- [인내의 도미노 장인 호석](https://www.acmicpc.net/problem/20165)
-
+- [모노미노도미노 2](https://www.acmicpc.net/problem/20061)
+- [숨바꼭질 3](https://www.acmicpc.net/problem/13549)
+- [카드 바꾸기](https://www.acmicpc.net/problem/25401)
+- [주식](https://www.acmicpc.net/problem/11501)
 
 # 지난 공통 문제
 - [N-Queen](https://www.acmicpc.net/problem/9663)
@@ -24,3 +25,5 @@
 - [로봇 청소기](https://www.acmicpc.net/problem/14503)
 - [미지의 공간 탈출](https://www.codetree.ai/ko/frequent-problems/problems/escape-unknown-space/description)
 - [색깔 폭탄](https://www.codetree.ai/ko/frequent-problems/problems/colored-bomb/description)
+- [아기 상어](https://www.acmicpc.net/problem/16236)
+- [인내의 도미노 장인 호석](https://www.acmicpc.net/problem/20165)
